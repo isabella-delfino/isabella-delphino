@@ -1,0 +1,85 @@
+{
+  "maiz": {
+    "0": {
+      "id": 0,
+      "nombre": "MAIZ ENROLLADO",
+      "pic": "./products/maiz/MAIZ-ENROLLADO.jpg"
+    },
+    "1": {
+      "id": 1,
+      "nombre": "MAIZ TRIANGULO",
+      "pic": "./products/maiz/MAIZ-TRIANGULO.jpg"
+    },
+    "2": {
+      "id": 2,
+      "nombre": "CORTADITOS",
+      "pic": "./products/maiz/CORTADITOS.jpg"
+    }
+  },
+  "especiales": {
+    "2": {
+      "id": 2,
+      "nombre": "SARGAZON ALGA MARINA",
+      "pic": "./products/especiales/PELLET-SARGAZON.jpg"
+    },
+    "3": {
+      "id": 3,
+      "nombre": "ARO DE CEBOLLA",
+      "pic": "./products/especiales/ARO-DE-CEBOLLA.png"
+    },
+    "4": {
+      "id": 4,
+      "nombre": "PALITO JALAPEÑO",
+      "pic": "./products/especiales/PALITO-JALAPEÑO.jpg"
+    },
+    "5": {
+      "id": 5,
+      "nombre": "MIX ESPECIAL",
+      "pic": "./products/especiales/MIX-ESPECIAL.jpg"
+    }
+  },
+  "harina-de-trigo": {
+    "6": {
+      "id": 6,
+      "nombre": "RUEDA GRANDE",
+      "pic": "./products/trigo/RUEDA-GRANDE.jpg"
+    },
+    "7": {
+      "id": 7,
+      "nombre": "CUADRADO",
+      "pic": "./products/trigo/CUADRO-HARINA.jpg"
+    },
+    "8": {
+      "id": 8,
+      "nombre": "ANILLO",
+      "pic": "./products/trigo/ANILLO-HARINA.jpg"
+    },
+    "9": {
+      "id": 9,
+      "nombre": "DONA",
+      "pic": "./products/trigo/DONITA-HARINA.jpg"
+    }
+  },
+  "harina-de-papa": {
+    "10": {
+      "id": 10,
+      "nombre": "PALITO",
+      "pic": "./products/papa/PALITO-HARINA-DE-PAPA.jpg"
+    },
+    "11": {
+      "id": 11,
+      "nombre": "ANILLO",
+      "pic": "./products/papa/ANILLO-HARINA-DE-PAPA.jpg"
+    },
+    "12": {
+      "id": 12,
+      "nombre": "RUEDA",
+      "pic": "./products/papa/RUEDA-GRANDE-HARINA-DE-PAPA.jpg"
+    },
+    "13": {
+      "id": 13,
+      "nombre": "RAQUETA",
+      "pic": "./products/papa/RAQUETA-HARINA-DE-PAPA.jpg"
+    }
+  }
+}

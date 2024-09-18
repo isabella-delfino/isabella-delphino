@@ -1,0 +1,40 @@
+<template>
+  <div class="navigation">
+    <Draggable id="drawer"><Drawer v-if="viewport === 'mobile'"/></Draggable>
+    <div v-if="!(viewport === 'mobile')" class="navigationItems">
+      <Logo />
+      <NavAnchors />
+    </div>
+  </div>
+</template>
+
+<script setup>
+import { useViewport } from '@/composables/useViewport';
+import Logo from '@/components/UI/atoms/Anchor/Layout/Logo/index.vue'
+import NavAnchors from '@/components/UI/molecules/Navigation/index.vue'
+
+import Drawer from "@/components/UI/organisms/Drawer/Header/Index.vue"
+import Draggable from "@/components/Draggable/index.vue"
+
+const { viewport } = useViewport();
+</script>
+
+<style scoped>
+.navigation {
+  display: flex;
+  padding: 30px 50px;
+  align-items: center;
+  background-color: transparent;
+
+  position: relative;
+  z-index: 1000;
+}
+
+.navigationItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1 1 0%;
+  border-bottom: 2px solid black;
+}
+</style>

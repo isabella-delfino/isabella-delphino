@@ -1,0 +1,67 @@
+{
+  "certification": "Certificaciones",
+  "navigation": {
+    "home": "INICIO",
+    "products": "PRODUCTOS",
+    "about": "NOSOTROS",
+    "contact": "CONTACTO"
+  },
+  "footer": {
+    "follow": "Siguenos"
+  },
+  "pages": {
+    "home": {
+      "mission": "Nuestra Misión",
+      "mission-p": "Proporcionar botanas deliciosas y de alta calidad, elaboradas con los mejores ingredientes, para satisfacer las necesidades y gustos de nuestros consumidores. Nos dedicamos a innovar constantemente en el mercado de las botanas, asegurándonos de ofrecer productos que no solo cumplan con las expectativas, sino que las superen.",
+      "quality": "Compromiso con la calidad",
+      "quality-p": "Cada producto que sale de nuestras instalaciones ha pasado por rigurosos controles de calidad para garantizar que cumpla con los más altos estándares. Utilizamos ingredientes seleccionados y procesos de producción avanzados para asegurar que cada botana sea deliciosa y segura para el consumo.",
+      "products": "Nuestros productos",
+      "products-p": "Ofrecemos una amplia variedad de productos de harina de maíz, además de contar con una diversa selección de condimentos para personalizar su producto según sus preferencias."
+    },
+    "products": {
+      "title": "Productos",
+      "navigation": {
+        "all": "TODOS",
+        "corn": "MAIZ",
+        "special": "ESPECIAL",
+        "wheat": "HARINA",
+        "potato": "HARINA DE PAPA"
+      },
+      "all": {
+        "brands": "Marcas Propias",
+        "brands-p": "Colaboramos estrechamente con nuestros clientes para desarrollar y fabricar sus propias marcas de botanas, garantizando que cada producto cumpla con sus especificaciones y altos estándares de calidad.<br/>Nuestro proceso incluye:",
+        "bobbin": "Diseño de la bobina",
+        "bobbin-p": "Creamos diseños de empaque personalizados que reflejan la identidad de tu marca, asegurando una presentación visual atractiva.",
+        "production": "Producción y empaque de la botana",
+        "production-p": "Trabajamos contigo para formular, producir y empacar botanas únicas, adaptadas a tus necesidades específicas y las de tu mercado objetivo.",
+        "flavor": "Creación del sabor",
+        "flavor-p": "Innovamos en la creación de perfiles de sabor exclusivos que deleiten a tus consumidores y se alineen con las tendencias del mercado."
+      }
+    },
+    "about": {
+      "title": "MAQUILADORA DE BOTANAS DE TIJUANA",
+      "title-p": "Desde el 2014 nos especializamos en la fabricacion de una amplia variedad de botanas de harina y de harina de maiz que deleitan los paladares de nuestros clientes. Contamos con botanas crujientes y sabrosas con una extensa gama de productos personalizados, estamos comprometidos con la calidad y el sabor en cada pieza.",
+      "culture": "NUESTRA CULTURA",
+      "mission": "MISIÓN",
+      "mission-p": "Ofrecer una gran variedad de botanas para todo tipo de clientes con los más altos estándares de calidad y eficiencia, satisfaciendo las necesidades de nuestros clientes globales mediante procesos innovadores y sostenibles.",
+      "vision": "VISIÓN",
+      "vision-p": "Ser una empresa en la fabricación de botanas a nivel mundial, destacándonos por nuestra excelencia operativa, compromiso con la calidad y responsabilidad social, impulsando el éxito de nuestros clientes en el mercado global.",
+      "innovation": "Innovación y personalización",
+      "innovation-p": "Entendemos que cada cliente es único. Por eso ofrecemos servicios de personalización para marcas propias, trabajando estrechamente con nuestros socios comerciales para desarrollar productos que reflejen su visión y satisfagan a su mercado objetivo.",
+      "join": "¡Únete a nosotros!",
+      "join-p": "¡Te invitamos a ser parte de la experiencia! Con nuestras deliciosas botanas, ofrecemos una variedad que satisface cualquier antojo. Si estás buscando crear una marca propia, estamos aquí para hacer realidad tus ideas y satisfacer tus necesidades de botanas."
+    },
+    "contact": {
+      "title": "Contacto",
+      "join": "¡Unete a nosotros!",
+      "join-p": "¡Te invitamos a ser parte de la experiencia! Con nuestras deliciosas botanas, ofrecemos una variedad que satisface cualquier antojo. Si estas buscando crear una marca propia, estamos aqui para hacer realidad tus ideas y satisfacer tus necesidades de botanas.",
+      "form": {
+        "name": "NOMBRE",
+        "email": "E-MAIL",
+        "subject": "ASUNTO",
+        "message": "MENSAJE",
+        "submit": "Enviar"
+      }
+    }
+  }
+}

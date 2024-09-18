@@ -1,0 +1,67 @@
+{
+  "certification": "Certifications",
+  "navigation": {
+    "home": "HOME",
+    "products": "PRODUCTS",
+    "about": "ABOUT US",
+    "contact": "CONTACT"
+  },
+  "footer": {
+    "follow": "Follow Us"
+  },
+  "pages": {
+    "home": {
+      "mission": "Our Mission",
+      "mission-p": "Provide delicious, high-quality snacks, made with the best ingredients, to satisfy the needs and tastes of our consumers. We are dedicated to constantly innovating in the snack market, ensuring we offer products that not only meet, but exceed expectations.",
+      "quality": "Commitment to Quality",
+      "quality-p": "Every product that leaves our facility has undergone rigorous quality controls to ensure it meets the highest standards. We use selected ingredients and advanced production processes to ensure that each snack is delicious and safe for consumption.",
+      "products": "Our products",
+      "products-p": "We offer a wide variety of corn flour products, as well as a diverse selection of seasonings to customize your product according to your preferences."
+    },
+    "products": {
+      "title": "Products",
+      "navigation": {
+        "all": "ALL",
+        "corn": "CORN",
+        "special": "SPECIALS",
+        "wheat": "WHEAT FLOUR",
+        "potato": "POTATO FLOUR"
+      },
+      "all": {
+        "brands": "Private Brands",
+        "brands-p": "We work closely with our customers to develop and manufacture their own snack brands, ensuring that each product meets their specifications and high quality standards.<br/>Our process includes:",
+        "bobbin": "Bobbin design",
+        "bobbin-p": "We create custom packaging designs that reflect your brand identity, ensuring an attractive visual presentation.",
+        "production": "Production and packaging of the snack",
+        "production-p": "We work with you to formulate, produce and package unique snacks tailored to your specific needs and those of your target market.",
+        "flavor": "Creating flavor",
+        "flavor-p": "We innovate in the creation of exclusive flavor profiles that delight your consumers and align with market trends."
+      }
+    },
+    "about": {
+      "title": "TIJUANA SNACK MANUFACTURING FACTORY",
+      "title-p": "Since 2014 we have specialized in the manufacture of a wide variety of flour and corn flour snacks that delight the palates of our customers. We have crunchy and tasty snacks with a wide range of customized products, we are committed to quality and flavor in each piece.",
+      "culture": "OUR CULTURE",
+      "mission": "MISSION",
+      "mission-p": "To offer a wide variety of snacks for all types of customers with the highest standards of quality and efficiency, satisfying the needs of our global customers through innovative and sustainable processes.",
+      "vision": "VISION",
+      "vision-p": "To be a company that manufactures snacks worldwide, standing out for our operational excellence, commitment to quality and social responsibility, promoting the success of our clients in the global market.",
+      "innovation": "Innovation and Personalization",
+      "innovation-p": "We understand that every client is unique. That's why we offer customization services for private labels, working closely with our business partners to develop products that reflect your vision and satisfy your target market.",
+      "join": "Join us!",
+      "join-p": "We invite you to be part of the experience! With our delicious snacks, we offer a variety that satisfies any craving. If you are looking to create your own brand, we are here to make your ideas a reality and satisfy your snack needs."
+    },
+    "contact": {
+      "title": "Contact",
+      "join": "Join us!",
+      "join-p": "We invite you to be part of the experience! With our delicious snacks, we offer a variety that satisfies any craving. If you are looking to create your own brand, we are here to make your ideas come true and satisfy your snack needs.",
+      "form": {
+        "name": "NAME",
+        "email": "E-MAIL",
+        "subject": "SUBJECT",
+        "message": "MESSAGE",
+        "submit": "Submit"
+      }
+    }
+  }
+}
