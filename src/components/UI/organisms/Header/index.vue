@@ -2,7 +2,10 @@
   <div class="navigation">
     <Draggable id="drawer"><Drawer v-if="viewport === 'mobile'"/></Draggable>
     <div v-if="!(viewport === 'mobile')" class="navigationItems">
-      <Logo />
+      <div class="logo-wrapper">
+        <Logo />
+        <h2>Maquiladora de botanas lourdes</h2>
+      </div>
       <NavAnchors />
     </div>
   </div>
@@ -36,5 +39,16 @@ const { viewport } = useViewport();
   align-items: center;
   flex: 1 1 0%;
   border-bottom: 2px solid black;
+}
+
+.logo-wrapper {
+  display: flex;
+  gap: 10px;
+}
+
+.logo-wrapper h2 {
+  @media (width < 1200px) {
+    display: none;
+  }
 }
 </style>
