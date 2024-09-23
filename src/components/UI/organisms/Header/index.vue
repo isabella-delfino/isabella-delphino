@@ -4,7 +4,7 @@
     <div v-if="!(viewport === 'mobile')" class="navigationItems">
       <div class="logo-wrapper">
         <Logo />
-        <h2>Maquiladora de botanas lourdes</h2>
+        <h2>Maquiladora de Botanas Lourdes</h2>
       </div>
       <NavAnchors />
     </div>
