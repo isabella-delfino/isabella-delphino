@@ -9,7 +9,7 @@ const routes = [
     path: '/', 
     component: Home,
     meta: {
-      title: "BTL Home Page"
+      title: "BLT Home Page"
     } 
   },
   { 
