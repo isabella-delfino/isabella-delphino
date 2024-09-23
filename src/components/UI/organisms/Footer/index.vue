@@ -17,8 +17,8 @@
     <div class="footer-social-links">
       <h2>{{ $t('footer.follow') }}</h2>
       <div>
-        <AwesomeSocialButton type="instagram" :link="{ href: 'https://instagram.com', target: '_blank' }" shape="square" />
-        <AwesomeSocialButton type="facebook" :link="{ href: 'https://facebook.com', target: '_blank' }" shape="square" />
+        <AwesomeSocialButton type="instagram" :link="{ href: 'https://www.instagram.com/maquiladoradebotanastj', target: '_blank' }" shape="square" />
+        <AwesomeSocialButton type="facebook" :link="{ href: 'https://www.facebook.com/profile.php?id=61566038469301', target: '_blank' }" shape="square" />
         <AwesomeSocialButton type="twitter" :link="{ href: 'https://twitter.com', target: '_blank' }" shape="square" />
       </div>
       <i18n class="i18n"/>
